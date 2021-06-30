@@ -1,3 +1,4 @@
+# sorry my code is kinda messy i don't have any time
 import turtle
 import math
 import random
